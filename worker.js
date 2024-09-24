@@ -1,6 +1,6 @@
 const TOKEN = 7621105810:AAFg0yj_sXuu1ncg6kpYq5SJ0AZPxn9ZmQ4 // Get it from @BotFather
 const WEBHOOK = '/endpoint'
-const SECRET = ENV_BOT_SECRET // A-Z, a-z, 0-9, _ and -
+const SECRET = d07cb59a-ed69-47f4-af36-cf4fc418bb89 // A-Z, a-z, 0-9, _ and -
 const ADMIN_UID = 6659010600 // your user id, get it from https://t.me/username_to_id_bot
 
 const NOTIFY_INTERVAL = 3600 * 1000;
